@@ -60,7 +60,7 @@ const Hero = () => {
 
         {/* <!-- Right imasge --> */}
         <div className="md:w-1/3 flex justify-center">
-          <img src="/images/hero1.png" alt="Hero" className="w-full max-w-xl h-auto object-contain" />
+          <img src="/characters/hero1.png" alt="Hero" className="w-full max-w-xl h-auto object-contain" />
         </div>
       </section>
       <div >
