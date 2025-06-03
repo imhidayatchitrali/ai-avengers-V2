@@ -7,7 +7,7 @@ import BusinessValue from './components/BusinessValue';
 import Testimonials from './components/Testimonials';
 import Contact from './components/Contact';
 import Footer from './components/Footer';
-import ServicesNew from './components/servicesNew';
+import ServicesNew from './components/ServicesNew';
 
 function App() {
   return (
